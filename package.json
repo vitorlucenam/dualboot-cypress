@@ -1,0 +1,19 @@
+{
+  "name": "healthxp-web-tests",
+  "version": "1.0.0",
+  "description": "Projeto de automação e2e em cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "healthxp",
+    "e2e"
+  ],
+  "author": "Vitor Moura",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
